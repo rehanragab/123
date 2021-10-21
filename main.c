@@ -11,5 +11,7 @@ int main()
    // scanf("%d",y);
     addd= add(10,20);
     printf("%d",addd);
+
+    //test
     return 0;
 }
